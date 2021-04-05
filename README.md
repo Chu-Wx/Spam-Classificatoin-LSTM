@@ -1,2 +1,2 @@
 # Spam-Classificatoin-LSTM
-Project using LSTM model for spam classification
+Project using BiLSTM model for spam classification
